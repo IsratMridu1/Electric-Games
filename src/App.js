@@ -10,6 +10,12 @@ function App() {
         <Route exact path='/'>
                 <HomePage/>
         </Route>
+        <Route exact path='/'>
+                <HomePage/>
+        </Route>
+        <Route exact path='/'>
+                <HomePage/>
+        </Route>
       </Switch>
       </BrowserRouter>
     
